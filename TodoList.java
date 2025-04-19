@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.todolist;
 
-/**
- *
- * @author AKILAN.P
- */
 import java.util.ArrayList;
 import java.util.Scanner;
 
